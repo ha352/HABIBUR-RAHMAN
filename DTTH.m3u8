@@ -1,7 +1,23 @@
 #EXTM3U 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/pLrjPsGJ/btv.png" group-title="Bangladesh", BTV
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/d3KgmRJn/Bangladesh-Television-Chittagong-Logo.png" group-title="Bangladesh", BTV CHOTTOGRAM
+https://s.id/21krB
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.pnghttps://i.postimg.cc/gJZR1XFM/Atnnews-2.jpghttps://i.postimg.cc/7hz6QqzQ/Bangla-24-Canada.jpg" group-title="Bangladesh", ATN BANGLA
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/fbjjbSgJ/p0I5dr0_2.png" group-title="Bangladesh", CHEENEL I HD
 http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png" group-title="Bangladesh", R TV HD
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/fLrwFw4Q/Green-TV.jpg" group-title="Bangladesh", GREEN TV
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJZR1XFM/Atnnews-2.jpg" group-title="Bangladesh", ATN NEWS HD
+https://s.id/21krM
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/2jbY6Cg3/fxq0pV2.png" group-title="Bangladesh", ASIAN TV HD
+https://s.id/21krF
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Fs4LFBd9/HX8SSDA.png" group-title="Bangladesh", BANGLA VISON HD
+https://s.id/21krO
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/4xcv8d9V/Bangla-TV.jpg" group-title="Bangladesh", BANGLA TV HD
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/7hz6QqzQ/Bangla-24-Canada.jpg" group-title="Bangladesh", BANGLA 24 CANADA
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/b24c.stream/live-orgin/b24c.stream/chunks.m3u8
